@@ -16,6 +16,7 @@ public class HomeScreen {
 	final int waitTime = 120;
 	WebDriver driver;
 
+	
 	public HomeScreen(WebDriver driver) {
 		this.driver = driver;
 
